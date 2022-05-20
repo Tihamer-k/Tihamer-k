@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/tihamerk" target="blank"><img src="https://img.shields.io/twitter/follow/tihamerk?logo=twitter&style=for-the-badge" alt="tihamerk" /></a> </p>
 
-- 🌱 I’m currently learning **React, Spring boot and Django**
+- 🌱 I’m currently learning **Spring boot and Kotlin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
