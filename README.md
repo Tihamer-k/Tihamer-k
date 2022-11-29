@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hola 👋, soy Tihamer Karlovich Aldana</h1>
-<h3 align="center">Apasionado por la tecnología, desarrollador de software. Me encanta Java y sigo profundizando en este, además de Js, Kotlin y Python.</h3>
+<h3 align="center">Estudiante ingeniería de software. Desarrollador Java (sigo profundizando en este), además de Js, Kotlin y Python.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tihamer-k&label=Profile%20views&color=0e75b6&style=flat" alt="tihamer-k" /> </p>
 
