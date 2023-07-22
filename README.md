@@ -9,7 +9,7 @@
 <h3 align="center">
 Software engineering student. Fullstack developer with more than 2 years.
 <p>
-- 🌱 I’m currently learning **Spring boot and Kotlin
+- 🌱 I’m currently learning Spring boot and Kotlin
 </p>
 </h3>
 
