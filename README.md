@@ -7,7 +7,7 @@
 ---
 
 <h3 align="center">
-Software engineering student. Fullstack developer with more than 2 years.
+Software engineering student. Fullstack developer with more than 2 years of experience.
 <p>
 - 🌱 I’m currently learning Spring boot and Kotlin
 </p>
