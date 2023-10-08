@@ -3,8 +3,6 @@
 ### Hi there 👋
 
 <h1 align="center">Hello 👋, I'm Tihamer Karlovich Aldana</h1>
-<a href="https://www.buymeacoffee.com/tih_codes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
 ---
 
 <h3 align="center">
@@ -13,6 +11,8 @@ Software engineering student. Fullstack developer with more than 2 years of expe
 - 🌱 I’m currently learning Spring boot and Kotlin
 </p>
 </h3>
+
+<a href="https://www.buymeacoffee.com/tih_codes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
 <h3 align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tihamer-k&" alt="tihamer-k" /></h3>
